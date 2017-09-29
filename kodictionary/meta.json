@@ -1,7 +1,7 @@
 [
   {
-    'name': 'test',
-    'author': 'lovit',
-    'description': 'This is test meta'
+    "author": "lovit",
+    "description": "테스트입니다",
+    "name": "test"
   }
 ]
