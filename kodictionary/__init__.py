@@ -3,3 +3,4 @@ __author__ = 'Lovit'
 
 from ._share import download
 from ._share import dictionary_list
+from ._dictionary import Dictionary
